@@ -1,7 +1,7 @@
 # Svelte Calculator
-A simple calculator made using svelte and sveltekit
-Author: Srilakshmi Malempati
-email: srilakshmiaruna32@gmail.com
+- A simple calculator made using svelte and sveltekit
+- Author: Srilakshmi Malempati
+- email: srilakshmiaruna32@gmail.com
 
 
 ## Run the application
